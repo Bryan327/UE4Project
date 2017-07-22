@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdventureGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"D:\GitHub\UE4Project\AdventureGame\Intermediate\Build\Win64\UE4Editor\Development\AdventureGame\PCH.AdventureGame.h.obj"
+"D:\GitHub\UE4Project\AdventureGame\Intermediate\Build\Win64\UE4Editor\Development\AdventureGame\AdventureGame.cpp.obj"
+"D:\GitHub\UE4Project\AdventureGame\Intermediate\Build\Win64\UE4Editor\Development\AdventureGame\AdventureGameCharacter.cpp.obj"
+"D:\GitHub\UE4Project\AdventureGame\Intermediate\Build\Win64\UE4Editor\Development\AdventureGame\AdventureGameGameMode.cpp.obj"
+"D:\GitHub\UE4Project\AdventureGame\Intermediate\Build\Win64\UE4Editor\Development\AdventureGame\AdventureGame.generated.cpp.obj"
+"D:\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdventureGame\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\GitHub\UE4Project\AdventureGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdventureGame.lib"

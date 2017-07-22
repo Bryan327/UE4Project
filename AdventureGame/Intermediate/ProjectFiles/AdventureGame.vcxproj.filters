@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\AdventureGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{608B75F1-F713-4D28-BB07-52FA115D3F0A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\AdventureGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\AdventureGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{43520C84-00D8-487E-AECF-66E9D30F72B7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\AdventureGame">
+			<UniqueIdentifier>{AD4B1510-175D-42AA-BA84-63B304BD6627}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\AdventureGame\AdventureGame.Build.cs">
+			<Filter>Source\AdventureGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\AdventureGame\AdventureGame.cpp">
+			<Filter>Source\AdventureGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\AdventureGame\AdventureGame.h">
+			<Filter>Source\AdventureGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\AdventureGame\AdventureGameCharacter.cpp">
+			<Filter>Source\AdventureGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\AdventureGame\AdventureGameCharacter.h">
+			<Filter>Source\AdventureGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\AdventureGame\AdventureGameGameMode.cpp">
+			<Filter>Source\AdventureGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\AdventureGame\AdventureGameGameMode.h">
+			<Filter>Source\AdventureGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
